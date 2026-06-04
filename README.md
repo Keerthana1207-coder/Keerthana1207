@@ -23,11 +23,11 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🚆 Railway Collision Detection System](https://github.com/Keerthana1207/RAILWAY-COLLISION-DETECTION-SYSTEM) | Prevents train collisions using IR sensors & microcontroller-based alert system | C, Arduino, IR Sensor |
-| [🌦️ Smart Weather Monitoring System](https://github.com/Keerthana1207/SMART-WEATHER-MONITORING-SYSTEM) | IoT-based real-time weather data tracking with sensor integration | C++, Arduino, DHT11 |
-| [🚂 Railway Collision Dashboard](https://github.com/Keerthana1207/Railway-Collision-Dashboard) | Visual dashboard interface for the collision detection system | HTML, CSS, JS |
-| [🌐 Personal Website](https://github.com/Keerthana1207/Personal-website) | Portfolio website showcasing my projects and skills | HTML, CSS, JS |
-| [🧮 Calculator (HTML)](https://github.com/Keerthana1207/Calculator-using-HTML) | Interactive web calculator built with vanilla HTML/CSS/JS | HTML, CSS, JS |
+| [🚆 Railway Collision Detection System](https://github.com/Keerthana1207-coder/RAILWAY-COLLISION-DETECTION-SYSTEM) | Prevents train collisions using IR sensors & microcontroller-based alert system | C, Arduino, IR Sensor |
+| [🌦️ Smart Weather Monitoring System](https://github.com/Keerthana1207-coder/SMART-WEATHER-MONITORING-SYSTEM) | IoT-based real-time weather data tracking with sensor integration | C++, Arduino, DHT11 |
+| [🚂 Railway Collision Dashboard](https://github.com/Keerthana1207-coder/Railway-Collision-Dashboard) | Visual dashboard interface for the collision detection system | HTML, CSS, JS |
+| [🌐 Personal Website](https://github.com/Keerthana1207-coder/Personal-website) | Portfolio website showcasing my projects and skills | HTML, CSS, JS |
+| [🧮 Calculator (HTML)](https://github.com/Keerthana1207-coder/Calculator-using-HTML) | Interactive web calculator built with vanilla HTML/CSS/JS | HTML, CSS, JS |
 
 ---
 
